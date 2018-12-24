@@ -1,19 +1,3 @@
-// **********************************************************************************************
-// Program: .java
-// Name: Ricardo Jose Sandoval
-// VUnetID: sandovrj
-// Section: 02
-// Email: ricardo.j.sandoval@vanderbilt.edu
-// Class: CS 1101 - Vanderbilt University
-// 12/23/2018 
-// Honor statement: I attest that I understand the honor code for this class and have neither given 
-//                  nor received any unauthorized aid on this assignment.
-//
-// Program Description:
-//      
-//
-// **********************************************************************************************
-
 public class User{
 
     //declare instance variables
